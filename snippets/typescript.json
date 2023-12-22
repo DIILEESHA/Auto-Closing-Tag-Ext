@@ -1,0 +1,7 @@
+{
+  "Auto Close TypeScript Tag": {
+    "prefix": "ts",
+    "body": ["<${1:script} lang='ts'>$2</${1:script}>"],
+    "description": "Auto close TypeScript tag"
+  }
+}

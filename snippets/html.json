@@ -1,0 +1,7 @@
+{
+  "Auto Close HTML Tag": {
+    "prefix": "html",
+    "body": ["<$1>$2</$1>"],
+    "description": "Auto close HTML tag"
+  }
+}

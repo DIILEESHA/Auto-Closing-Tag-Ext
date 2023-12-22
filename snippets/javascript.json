@@ -1,0 +1,7 @@
+{
+    "Auto Close JavaScript Tag": {
+        "prefix": "js",
+        "body": ["<${1:script}>$2</${1:script}>"],
+        "description": "Auto close JavaScript tag"
+    }
+}
